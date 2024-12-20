@@ -1,1 +1,1 @@
-# Distribution
+# Histograms and distribution density graphs
